@@ -1,0 +1,48 @@
+ body{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+ }
+
+.heading{
+    background-color: lightgreen;
+    color: black;
+    padding: 10px;
+    margin: 10px;
+    font-size: 18px;
+    font-weight: bold;
+    text-align:  center;
+}
+.side-heading{
+    border-left: 6px solid orange;
+    padding: 10px;
+    margin: 10px;
+    font-size: 16px;
+    font-weight: bold;
+}
+.add-task-container{
+    margin: 10px;
+}
+.task-input{
+    font-size: 14px;
+    padding: 5px;
+    border-radius: 5px;
+}
+.add-button{
+    font-size: 14px;
+    padding: 5px;
+    background-color: green;
+    border: 1px soild lightgreen;
+    color: white;
+    border-radius: 5px;
+}
+.task-container{
+    border: 1px solid grey;
+    padding: 10px;
+    margin: 10px;
+    background-color: lightgray;
+}
+.task-item{
+    border: 1px solid black;
+    padding: 10px;
+    margin: 10px;
+    background-color: white;
+}
