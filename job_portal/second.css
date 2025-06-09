@@ -1,0 +1,33 @@
+.custom-header{
+    color: white;
+}
+.job-input-container{
+    padding: 20px;
+    width: 500px;
+    margin: 24px;
+    border: 2px solid gray;
+    border-radius: 5px;
+}
+.side-heading{
+    border-left: 6px solid orange;
+    padding: 10px;
+    margin: 10px;
+    font-size: 16px;
+    font-weight: bold;
+}
+.job-list-container{
+    padding: 20px;
+
+}
+.job-item{
+   min-width: 400px;
+   margin-right: 20px;
+}
+.job-location{
+    background-color: lightblue;
+    border: 1px solid blue;
+    color: blue;
+    padding: 8px;
+    width: 100px;
+    border-radius: 5px;
+}

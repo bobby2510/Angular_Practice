@@ -20,6 +20,9 @@
         let task_container = document.querySelector('#task-container')
         task_container.appendChild(new_div)
         input_element.value = ''
+
+        //job item new div
+        
     }
  })
 
